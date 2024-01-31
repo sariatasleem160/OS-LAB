@@ -92,17 +92,7 @@ Double click on the ***\*VMware-player-full-17.5.0-22583795.exe\**** file.
 
   
 
-  **Task2**
-
   
-
-  ![Screenshot (456)](C:\Users\Dell\Pictures\Screenshots\Screenshot (456).png)
-
-  
-
-  
-
-  ![Screenshot (458)](C:\Users\Dell\Pictures\Screenshots\Screenshot (458).png)
   
   
   
