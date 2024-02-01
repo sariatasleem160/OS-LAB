@@ -18,10 +18,6 @@ Double click on the ***\*VMware-player-full-17.5.0-22583795.exe\**** file.
 
 * Click ***\*Next\**** to continue.
 
-<img src="C:\Users\Dell\Pictures\Screenshots\Screenshot (459).png" alt="Screenshot (459)" style="zoom:50%;" />
-
-
-
 * Accept the ***\*License Agreement\**** and Click ***\*Next\**** to continue.
 
 * Click ***\*Next\**** to continue.
@@ -84,9 +80,6 @@ Double click on the ***\*VMware-player-full-17.5.0-22583795.exe\**** file.
 
   
 
-  <img src="C:\Users\Dell\Desktop\64bit.jpg" alt="64bit" style="zoom:50%;" />
-
-  
 
   # **Getting started with Ubuntu**:
 
@@ -94,7 +87,7 @@ Double click on the ***\*VMware-player-full-17.5.0-22583795.exe\**** file.
 
   
 
-  <img src="C:\Users\Dell\Desktop\terminal.jpg" alt="terminal" style="zoom:50%;" />
+  
 
   
 
