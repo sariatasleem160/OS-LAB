@@ -85,13 +85,6 @@ Double click on the ***\*VMware-player-full-17.5.0-22583795.exe\**** file.
 
   ***\*1.\**** Click ***\*Windows\**** key on keyboard and search ***\*Terminal\****.
 
-  
-
-  
-
-  
-
-  
 
   ***\*2.\**** You will get the pop-up windows.
 
@@ -117,18 +110,9 @@ Double click on the ***\*VMware-player-full-17.5.0-22583795.exe\**** file.
 
   
 
-  ![Screenshot (456)](C:\Users\Dell\Pictures\Screenshots\Screenshot (456).png)
+ ![image not found](./Screenshots/p1.jpeg)
 
-  
-  
-  
-  
-  ![Screenshot (458)](C:\Users\Dell\Pictures\Screenshots\Screenshot (458).png)
-  
-  
-  
-  
-  
+  ![image not found](./Screenshots/p2.jpeg)
   
   
   
