@@ -112,6 +112,7 @@ Double click on the ***\*VMware-player-full-17.5.0-22583795.exe\**** file.
 
  ![p1](https://github.com/sariatasleem160/OS-LAB/assets/121210991/0864074d-a7e3-4217-9e6b-d592b1cf0336)
 
+![p2](https://github.com/sariatasleem160/OS-LAB/assets/121210991/00417e2a-f28f-4aeb-9aac-994df5ef575c)
 
   
   
