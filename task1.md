@@ -110,9 +110,9 @@ Double click on the ***\*VMware-player-full-17.5.0-22583795.exe\**** file.
 
   
 
- ![image not found](./Screenshots/p1.jpeg)
+ ![image not found](./pic/p1.png)
 
-  ![image not found](./Screenshots/p2.jpeg)
+  ![image not found](./p2/p2.png)
   
   
   
