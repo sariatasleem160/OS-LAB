@@ -30,13 +30,15 @@ Double click on the ***\*VMware-player-full-17.5.0-22583795.exe\**** file.
 
 
 
-<img src="https://www.wikihow.com/images/thumb/c/c6/Install-VirtualBox-Step-6-Version-3.jpg/aid699086-v4-728px-Install-VirtualBox-Step-6-Version-3.jpg.webp" alt="Step 6 Click Install when prompted." style="zoom:50%;" />
+![install](https://github.com/sariatasleem160/OS-LAB/assets/121210991/1a56ada5-9592-465a-9d66-45bb40062458)
+
 
 
 
 * Click ***\*Finish\****.
 
-<img src="https://www.wikihow.com/images/thumb/f/f7/Install-VirtualBox-Step-7-Version-3.jpg/aid699086-v4-728px-Install-VirtualBox-Step-7-Version-3.jpg.webp" alt="Step 7 Click Finish when prompted." style="zoom:50%;" />
+![finish](https://github.com/sariatasleem160/OS-LAB/assets/121210991/82df4309-7c48-4acc-9987-84b196072bae)
+
 
 
 
