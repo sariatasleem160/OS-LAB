@@ -78,12 +78,17 @@ Double click on the ***\*VMware-player-full-17.5.0-22583795.exe\**** file.
 
    After ***\*Restarting\**** your computer you have finally installed ***\*Ubuntu OS\**** via ***\*VMware Workstation 17 Player\**** inside your ***\*Windows OS\****
 
+![64bit](https://github.com/sariatasleem160/OS-LAB/assets/121210991/c5822e07-cef6-4916-9ca0-5d680a660895)
+
+
   
 
 
   # **Getting started with Ubuntu**:
 
   ***\*1.\**** Click ***\*Windows\**** key on keyboard and search ***\*Terminal\****.
+
+  ![terminal](https://github.com/sariatasleem160/OS-LAB/assets/121210991/719ad3b9-8027-42e5-9681-e696c2fdc386)
 
 
   ***\*2.\**** You will get the pop-up windows.
