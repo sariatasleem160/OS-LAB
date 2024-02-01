@@ -110,9 +110,9 @@ Double click on the ***\*VMware-player-full-17.5.0-22583795.exe\**** file.
 
   
 
- ![image not found](./pic/p1.png)
+ ![p1](https://github.com/sariatasleem160/OS-LAB/assets/121210991/0864074d-a7e3-4217-9e6b-d592b1cf0336)
 
-  ![image not found](./p2/p2.png)
+
   
   
   
